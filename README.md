@@ -2,3 +2,4 @@
 ## C
 ## JavaScript
 ## Lua
+## golang
