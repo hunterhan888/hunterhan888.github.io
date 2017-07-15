@@ -2,4 +2,3 @@
 ## C
 ## JavaScript
 ## Lua
-## Erlang
