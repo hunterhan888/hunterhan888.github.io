@@ -1,4 +1,3 @@
 ## PHP
 ## C
 ## JavaScript
-## lua
